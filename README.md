@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Tyrhen%20Cameron&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6B9FD4&center=true&vCenter=true&random=false&width=500&lines=Fullstack+Software+Engineer;Based+in+Japan+%F0%9F%87%AF%F0%9F%87%B5;Building+web+experiences+with+Rails+%26+React;Gundam+model+enthusiast+%F0%9F%A4%96)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6B9FD4&center=true&vCenter=true&random=false&width=600&lines=Fullstack+Software+Engineer;Based+in+Japan+%F0%9F%87%AF%F0%9F%87%B5;Building+with+Rails+%26+React;Gundam+model+enthusiast+%F0%9F%A4%96)](https://git.io/typing-svg)
 
 </div>
 
@@ -11,7 +11,7 @@
 ### About Me
 
 ```javascript
-const tyrhen = {
+const me = {
     location: "Japan",
     currentProject: "Kokai Soundworks",
     learning: ["TypeScript", "Unity", "Blender"],
@@ -54,9 +54,3 @@ const tyrhen = {
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
 ---
-
-<div align="center">
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
-
-</div>
