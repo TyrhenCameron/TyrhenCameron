@@ -16,7 +16,7 @@ const me = {
     currentProject: "Kokai Soundworks",
     learning: ["TypeScript", "Unity", "Blender"],
     askMeAbout: ["Ruby on Rails", "GSAP", "React"],
-    funFact: "I airbrush Gundam models!"
+    funFact: ["I airbrush Gundam models!", "I speak fluent Japanese!"]
 };
 ```
 
