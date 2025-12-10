@@ -55,19 +55,6 @@ const tyrhen = {
 
 ---
 
-### GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=TyrhenCameron&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6B9FD4&icon_color=6B9FD4" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TyrhenCameron&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6B9FD4" height="165"/>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=TyrhenCameron&theme=tokyonight&hide_border=true&background=0D1117&ring=6B9FD4&fire=6B9FD4&currStreakLabel=6B9FD4)](https://git.io/streak-stats)
-
-</div>
-
----
-
 <div align="center">
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
