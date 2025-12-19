@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Tyrhen%20Cameron&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6B9FD4&center=true&vCenter=true&random=false&width=600&lines=Fullstack+Software+Engineer;Based+in+Japan+%F0%9F%87%AF%F0%9F%87%B5;Building+with+Rails+%26+React;Gundam+model+enthusiast+%F0%9F%A4%96)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6B9FD4&center=true&vCenter=true&random=false&width=600&lines=Fullstack+Software+Engineer;Based+in+Japan+%F0%9F%87%AF%F0%9F%87%B5;Building+with+Nextjs+%26+React;Gundam+model+enthusiast+%F0%9F%A4%96)](https://git.io/typing-svg)
 
 </div>
 
@@ -13,9 +13,9 @@
 ```javascript
 const me = {
     location: "Japan",
-    currentProject: "Kokai Soundworks",
-    learning: ["TypeScript", "Unity", "Blender"],
-    askMeAbout: ["Ruby on Rails", "GSAP", "React"],
+    currentProject: ["Kokai Soundworks", "Kinenhin Manager"],
+    learning: [ "Unity", "Blender"],
+    askMeAbout: ["Ruby on Rails", "GSAP", "React", "TypeScript"],
     funFact: ["I airbrush Gundam models!", "I speak fluent Japanese!"]
 };
 ```
