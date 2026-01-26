@@ -13,14 +13,14 @@
 ```javascript
 const me = {
     location: "Japan",
-    currentProject: ["Kokai Soundworks", "ERIS: Chaos Lab"],
+    currentProject: ["Kakehashi Visa", "HECATE: Chaos Engineering and Healing Suite"],
     learning: [ "Unity", "Blender"],
     askMeAbout: ["Ruby on Rails", "GSAP", "React", "TypeScript"],
     funFact: ["I airbrush Gundam models!", "I speak fluent Japanese!"]
 };
 ```
 
-- Currently building **[Kokai Soundworks](https://github.com/TyrhenCameron/kokai-soundworks)**
+- Currently building **[Kokai Soundworks](https://github.com/TyrhenCameron/hecate-aws)**
 - Reach me at **tyrhencameron@gmail.com**
 
 ---
