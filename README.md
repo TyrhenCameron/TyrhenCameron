@@ -1,57 +1,119 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Tyrhen%20Cameron&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32)
+![Header](https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,50:1a0a2e,100:0d0d0d&height=120&section=header&text=TYRHEN%20CAMERON&fontSize=40&fontColor=00fff9&fontAlign=50&fontAlignY=50&desc=//SYSTEM_ONLINE&descSize=14&descAlign=50&descAlignY=75&descColor=ff00ff&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6B9FD4&center=true&vCenter=true&random=false&width=600&lines=Fullstack+Software+Engineer;Based+in+Japan+%F0%9F%87%AF%F0%9F%87%B5;Building+with+Nextjs+%26+React;Gundam+model+enthusiast+%F0%9F%A4%96)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&duration=3000&pause=1000&color=00FFF9&center=true&vCenter=true&random=false&width=600&lines=%3E+FULLSTACK+%2B+DEVOPS+ENGINEER+%7C+TOKYO;%3E+AWS+%2F%2F+TERRAFORM+%2F%2F+RAILS+%2F%2F+REACT;%3E+ARCHITECTING+CHAOS...;%3E+DEPLOYING+INFRASTRUCTURE_)](https://git.io/typing-svg)
+
+</div>
+
+<img align="right" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXNqOWd5ajF2cWsyamNvb2xiZHB5cHZlZnMwdmJxYm9nbmxqaG1qZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QpVUMRUJGokfqXyfa1/giphy.gif" alt="cyberpunk-gif"/>
+
+```js
+// identity.config.js
+const operative = {
+    alias: "Tyrhen",
+    location: "Tokyo, Japan",
+    status: "ONLINE",
+    current_mission: "hecate-aws",  // cloud infrastructure
+    past_missions: ["eris-chaos-lab", "nyx-aws"],
+    currently_working_with: ["Rails API", "React", "Typescript", "HTML", "CSS", "Terraform", "Python", "AWS"],
+    side_quest: "Airbrushing Gundam models"
+};
+
+module.exports = operative;
+```
+
+<br clear="right"/>
+
+---
+
+<div align="center">
+
+### `> TECH_ARSENAL.exe`
+
+</div>
+
+<details>
+<summary>☁️ CLOUD_&_DEVOPS</summary>
+<br>
+
+![AWS](https://img.shields.io/badge/AWS-0d0d0d?style=flat-square&logo=amazonwebservices&logoColor=ff00ff)
+![Terraform](https://img.shields.io/badge/Terraform-0d0d0d?style=flat-square&logo=terraform&logoColor=00fff9)
+![Docker](https://img.shields.io/badge/Docker-0d0d0d?style=flat-square&logo=docker&logoColor=00fff9)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0d0d0d?style=flat-square&logo=githubactions&logoColor=ff00ff)
+![Heroku](https://img.shields.io/badge/Heroku-0d0d0d?style=flat-square&logo=heroku&logoColor=ff00ff)
+
+</details>
+
+<details>
+<summary>⚡ FRONTEND_SYSTEMS</summary>
+<br>
+
+![JavaScript](https://img.shields.io/badge/JavaScript-0d0d0d?style=flat-square&logo=javascript&logoColor=00fff9)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d0d0d?style=flat-square&logo=typescript&logoColor=00fff9)
+![React](https://img.shields.io/badge/React-0d0d0d?style=flat-square&logo=react&logoColor=00fff9)
+![Next.js](https://img.shields.io/badge/Next.js-0d0d0d?style=flat-square&logo=nextdotjs&logoColor=00fff9)
+![Vue.js](https://img.shields.io/badge/Vue.js-0d0d0d?style=flat-square&logo=vuedotjs&logoColor=00fff9)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-0d0d0d?style=flat-square&logo=tailwindcss&logoColor=00fff9)
+![SASS](https://img.shields.io/badge/Sass-0d0d0d?style=flat-square&logo=sass&logoColor=ff00ff)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-0d0d0d?style=flat-square&logo=bootstrap&logoColor=ff00ff)
+
+</details>
+
+<details>
+<summary>🔮 BACKEND_CORE</summary>
+<br>
+
+![Ruby](https://img.shields.io/badge/Ruby-0d0d0d?style=flat-square&logo=ruby&logoColor=ff00ff)
+![Rails](https://img.shields.io/badge/Rails-0d0d0d?style=flat-square&logo=rubyonrails&logoColor=ff00ff)
+![Python](https://img.shields.io/badge/Python-0d0d0d?style=flat-square&logo=python&logoColor=00fff9)
+![Node.js](https://img.shields.io/badge/Node.js-0d0d0d?style=flat-square&logo=nodedotjs&logoColor=00fff9)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d0d0d?style=flat-square&logo=postgresql&logoColor=ff00ff)
+![SQLite](https://img.shields.io/badge/SQLite-0d0d0d?style=flat-square&logo=sqlite&logoColor=ff00ff)
+
+</details>
+
+<details>
+<summary>🛠️ TOOLS_&_DESIGN</summary>
+<br>
+
+![Figma](https://img.shields.io/badge/Figma-0d0d0d?style=flat-square&logo=figma&logoColor=ff00ff)
+![Photoshop](https://img.shields.io/badge/Photoshop-0d0d0d?style=flat-square&logo=adobephotoshop&logoColor=00fff9)
+
+</details>
+
+---
+
+<div align="center">
+
+### `> SYSTEM_METRICS`
+
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TyrhenCameron&hide_border=true&background=0d0d0d&stroke=00fff9&ring=ff00ff&fire=ff00ff&currStreakNum=00fff9&sideNums=00fff9&currStreakLabel=ff00ff&sideLabels=ff00ff&dates=666666" width="48%" />
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TyrhenCameron&bg_color=0d0d0d&color=00fff9&line=ff00ff&point=00fff9&area=true&area_color=1a0a2e&hide_border=true" width="96%" />
 
 </div>
 
 ---
 
-### About Me
+<div align="center">
 
-```javascript
-const me = {
-    location: "Japan",
-    currentProject: ["Kakehashi Visa", "HECATE: Chaos Engineering and Healing Suite"],
-    learning: [ "Unity", "Blender"],
-    askMeAbout: ["Ruby on Rails", "GSAP", "React", "TypeScript"],
-    funFact: ["I airbrush Gundam models!", "I speak fluent Japanese!"]
-};
+```
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║   > CURRENT_OP: hecate-aws                                       ║
+║   > CONTACT: tyrhencameron@gmail.com                             ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
 ```
 
-- Currently building **[Kokai Soundworks](https://github.com/TyrhenCameron/hecate-aws)**
-- Reach me at **tyrhencameron@gmail.com**
+[![GitHub](https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=00fff9)](https://github.com/TyrhenCameron)
+[![Email](https://img.shields.io/badge/Email-0d0d0d?style=for-the-badge&logo=gmail&logoColor=ff00ff)](mailto:tyrhencameron@gmail.com)
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,50:1a0a2e,100:0d0d0d&height=40&section=footer"/>
 
-### Tech Stack
-
-**Frontend**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-**Backend**
-
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
-![Rails](https://img.shields.io/badge/Rails-D30001?style=for-the-badge&logo=rubyonrails&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform)
-
-**Tools & Platforms**
-
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-257bd6?style=for-the-badge&logo=docker&logoColor=white)
-
----
+</div>
