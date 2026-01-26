@@ -52,7 +52,6 @@ module.exports = operative;
 ![TypeScript](https://img.shields.io/badge/TypeScript-0d0d0d?style=flat-square&logo=typescript&logoColor=00fff9)
 ![React](https://img.shields.io/badge/React-0d0d0d?style=flat-square&logo=react&logoColor=00fff9)
 ![Next.js](https://img.shields.io/badge/Next.js-0d0d0d?style=flat-square&logo=nextdotjs&logoColor=00fff9)
-![Vue.js](https://img.shields.io/badge/Vue.js-0d0d0d?style=flat-square&logo=vuedotjs&logoColor=00fff9)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-0d0d0d?style=flat-square&logo=tailwindcss&logoColor=00fff9)
 ![SASS](https://img.shields.io/badge/Sass-0d0d0d?style=flat-square&logo=sass&logoColor=ff00ff)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-0d0d0d?style=flat-square&logo=bootstrap&logoColor=ff00ff)
