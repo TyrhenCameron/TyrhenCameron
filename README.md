@@ -7,8 +7,6 @@
 
 </div>
 
-<img align="right" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXNqOWd5ajF2cWsyamNvb2xiZHB5cHZlZnMwdmJxYm9nbmxqaG1qZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QpVUMRUJGokfqXyfa1/giphy.gif" alt="cyberpunk-gif"/>
-
 ```js
 // identity.config.js
 const operative = {
